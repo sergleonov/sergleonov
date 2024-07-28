@@ -1,6 +1,6 @@
 ## Hi, I am Sergei! 🇷🇺
 
-### Recent Projects
+### Recent Projects 👨‍💻
 You can click on the videos below to view my demonstrations of my recent projects and find them in my pinned repos for details!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4Vlz6MiSEws&feature=youtu.be&v=4Vlz6MiSEws
