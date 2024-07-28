@@ -13,6 +13,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/rhNE35C7s5U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sergleonov&show_icons=true&theme=tokyonight)
+
 ### Skills
 Python, Java
 
