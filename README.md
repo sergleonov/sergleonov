@@ -1,6 +1,7 @@
-## Hi, I am Sergei! 
+## Hi, I am Sergei! 🇷🇺
 
-### About me 🇷🇺
+### About me 🏒 
+I am originally from Russia, and I am currently a second-year student at Amherst College studying Mathematics and Computer Science. I am interested in data analysis and security. I enjoy finding connections between different fields and learning new things.
 
 ### Recent Projects 👨‍💻
 You can click on the videos below to view my demonstrations of my recent projects and find them in my pinned repos for details!
