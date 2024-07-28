@@ -1,4 +1,4 @@
-## Hi, I am Sergei
+## Hi, I am Sergei 🇷🇺
 
 ### About me
 
