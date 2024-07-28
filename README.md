@@ -1,4 +1,6 @@
-## Hi, I am Sergei! 🇷🇺
+## Hi, I am Sergei! 
+
+### About me 🇷🇺
 
 ### Recent Projects 👨‍💻
 You can click on the videos below to view my demonstrations of my recent projects and find them in my pinned repos for details!
