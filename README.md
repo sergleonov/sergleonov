@@ -4,7 +4,7 @@
 I am originally from Russia, and I am currently a second-year student at Amherst College studying Mathematics and Computer Science. I am interested in data analysis and security. I enjoy finding connections between different fields and learning new things.
 
 ### Recent Projects 👨‍💻
-You can click on the videos below to view my demonstrations of my recent projects and find them in my pinned repos for details!
+You can click on the videos below to view demonstrations of my recent projects and find them in my pinned repos for details!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4Vlz6MiSEws&feature=youtu.be&v=4Vlz6MiSEws
 " target="_blank"><img src="http://img.youtube.com/vi/4Vlz6MiSEws/0.jpg" 
